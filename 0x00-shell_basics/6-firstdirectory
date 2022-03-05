@@ -1,1 +1,2 @@
-#!/bin/bash/nmkdir/tmp/my_first_directory/betty
+#!/bin/bash
+mkdir/tmp/my_first_directory/
